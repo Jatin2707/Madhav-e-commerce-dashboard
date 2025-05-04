@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# Madhav-e-commerce-dashboard
 This Power BI Sales Performance Dashboard provides insightful analysis of monthly profit trends and Average Order Value (AOV). The dashboard helps businesses track revenue patterns, identify profitable months, and make data-driven decisions to optimize sales strategies.
 
 ## Key Insights
